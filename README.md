@@ -83,11 +83,11 @@
 
 | 网盘品类 | 拉新单价 | 转存补贴 | 会员分成 | 注册/开始推广 |
 |---------|---------|---------|---------|-------------|
-| 百度网盘 | 8–12元/人 | 0.22–0.45元/次 | 新用户20%，续费10% |  [立即开始推广百度网盘](https://dt.bd.cn/#/pages/login/register?invite_code=1377372&qd=self_team_ios) |
-| 夸克网盘 | 7–12元/人 | 0.3–0.4元/次 | 30% |  [立即开始推广夸克网盘](https://dt.bd.cn/#/pages/login/register?invite_code=1377372&qd=self_team_ios) |
-| 迅雷网盘 | 6–15元/人 | 0.5–1元/次 | 40% |  [立即开始推广迅雷网盘](https://dt.bd.cn/#/pages/login/register?invite_code=1377372&qd=self_team_ios) |
-| UC网盘 | 10元/人 | 0.8元/次 | 50% |  [立即开始推广UC网盘](https://dt.bd.cn/#/pages/login/register?invite_code=1377372&qd=self_team_ios) |
-| 移动云盘 | 5.5元/人 | 2元/次 | 30% |  [立即开始推广移动云盘](https://dt.bd.cn/#/pages/login/register?invite_code=1377372&qd=self_team_ios) |
+| 百度网盘 | 8–12元/人 | 0.22–0.45元/次 | 新用户20%，续费10% |  [立即开始推广百度网盘](https://dt.bd.cn/#/pages/login/register?invite_code=0641931&qd=self_team_ios) |
+| 夸克网盘 | 7–12元/人 | 0.3–0.4元/次 | 30% |  [立即开始推广夸克网盘](https://dt.bd.cn/#/pages/login/register?invite_code=0641931&qd=self_team_ios) |
+| 迅雷网盘 | 6–15元/人 | 0.5–1元/次 | 40% |  [立即开始推广迅雷网盘](https://dt.bd.cn/#/pages/login/register?invite_code=0641931&qd=self_team_ios) |
+| UC网盘 | 10元/人 | 0.8元/次 | 50% |  [立即开始推广UC网盘](https://dt.bd.cn/#/pages/login/register?invite_code=0641931&qd=self_team_ios) |
+| 移动云盘 | 5.5元/人 | 2元/次 | 30% |  [立即开始推广移动云盘](https://dt.bd.cn/#/pages/login/register?invite_code=0641931&qd=self_team_ios) |
 
 > **如何选择推广的网盘？** 建议新手优先选百度网盘或夸克网盘，这两个用户基数最大，内容资源最丰富，推广难度相对低。迅雷和UC适合有一定渠道积累的中级推广员，会员分成比例高，长期回报更可观。移动云盘的转存补贴是所有品类里最高的，如果你能做好资源引流，光靠转存收益就相当可观。
 
@@ -166,7 +166,7 @@
 
 **Q：任推邦完全免费注册吗？**
 
-是的，注册任推邦不需要任何费用。平台的商业模式是从大厂拿推广预算，再按效果分给推广员，平台本身不向推广员收费。👉 [免费注册入口（邀请码1377372）](https://dt.bd.cn/#/pages/login/register?invite_code=1377372&qd=self_team_ios)
+是的，注册任推邦不需要任何费用。平台的商业模式是从大厂拿推广预算，再按效果分给推广员，平台本身不向推广员收费。👉 [免费注册入口（邀请码0641931）](https://dt.bd.cn/#/pages/login/register?invite_code=0641931&qd=self_team_ios)
 
 **Q：没有粉丝基础能做吗？**
 
@@ -198,4 +198,4 @@
 
 对于有时间、有耐心、想找一份门槛低收益稳的副业的人来说，任推邦值得认真投入。
 
-👉 [用邀请码1377372注册任推邦，立即开始你的推广之旅](https://dt.bd.cn/#/pages/login/register?invite_code=1377372&qd=self_team_ios)
+👉 [用邀请码0641931注册任推邦，立即开始你的推广之旅](https://dt.bd.cn/#/pages/login/register?invite_code=0641931&qd=self_team_ios)
